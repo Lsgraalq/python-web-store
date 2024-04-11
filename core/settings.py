@@ -129,4 +129,4 @@ MEDIA_ROOT = BASE_DIR
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-CARD_SESSION_ID = 'cart'
+CART_SESSION_ID = 'cart'
